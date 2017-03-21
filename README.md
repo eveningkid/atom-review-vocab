@@ -1,6 +1,6 @@
 # Review Vocabulary Atom Package
 
-![Review chinese vocab](usage.gif)
+![Review chinese vocab](https://media.giphy.com/media/xUPGcJdVHqQsBZ1iaA/giphy.gif)
 
 # What?
 
