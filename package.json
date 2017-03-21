@@ -1,7 +1,7 @@
 {
   "name": "atom-review-vocab",
   "main": "./lib/atom-review-vocab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easily review your vocab inside the editor!",
   "keywords": [
     "learn",
