@@ -1,0 +1,28 @@
+{
+  "name": "atom-review-vocab",
+  "main": "./lib/atom-review-vocab",
+  "version": "0.0.0",
+  "description": "Easily review your vocab inside the editor!",
+  "keywords": [
+    "learn",
+    "vocabulary",
+    "vocab",
+    "review",
+    "atom",
+    "atom-package"
+  ],
+  "repository": "https://github.com/eveningkid/atom-review-vocab",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  }
+}
